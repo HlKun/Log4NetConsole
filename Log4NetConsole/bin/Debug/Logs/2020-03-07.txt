@@ -1,0 +1,14 @@
+2020-03-07 14:13:55,815 [1] ERROR Log4NetConsole.Program [(null)] (null) - Line:16 error
+System.Exception: 发生了一个异常
+2020-03-07 14:13:56,081 [1] FATAL Log4NetConsole.Program [(null)] (null) - Line:17 fatal
+System.Exception: 发生了一个致命错误
+2020-03-07 14:13:56,082 [1] INFO  Log4NetConsole.Program [(null)] (null) - Line:18 info
+2020-03-07 14:13:56,085 [1] DEBUG Log4NetConsole.Program [(null)] (null) - Line:19 debug
+2020-03-07 14:13:56,086 [1] WARN  Log4NetConsole.Program [(null)] (null) - Line:20 warn
+2020-03-07 14:19:19,093 [1] ERROR Log4NetConsole.Program [(null)] (null) - Line:16 error
+2020-03-07 14:19:19,253 [1] FATAL Log4NetConsole.Program [(null)] (null) - Line:17 fatal
+2020-03-07 14:19:19,254 [1] INFO  Log4NetConsole.Program [(null)] (null) - Line:18 info
+2020-03-07 14:19:19,255 [1] DEBUG Log4NetConsole.Program [(null)] (null) - Line:19 debug
+2020-03-07 14:19:19,255 [1] WARN  Log4NetConsole.Program [(null)] (null) - Line:20 warn
+2020-03-07 14:24:36,432 [1] DEBUG Log4NetConsole.Program [(null)] (null) - Line:19 debug
+2020-03-07 14:27:54,917 [1] FATAL Log4NetConsole.Program [(null)] (null) - Line:17 fatal

@@ -1,0 +1,9 @@
+C:\Users\戴尔\Source\Repos\Log4NetConsole\Log4NetConsole\bin\Debug\Log4NetConsole.exe.config
+C:\Users\戴尔\Source\Repos\Log4NetConsole\Log4NetConsole\bin\Debug\Log4NetConsole.exe
+C:\Users\戴尔\Source\Repos\Log4NetConsole\Log4NetConsole\bin\Debug\Log4NetConsole.pdb
+C:\Users\戴尔\Source\Repos\Log4NetConsole\Log4NetConsole\bin\Debug\log4net.dll
+C:\Users\戴尔\Source\Repos\Log4NetConsole\Log4NetConsole\bin\Debug\log4net.xml
+C:\Users\戴尔\Source\Repos\Log4NetConsole\Log4NetConsole\obj\Debug\Log4NetConsole.csprojAssemblyReference.cache
+C:\Users\戴尔\Source\Repos\Log4NetConsole\Log4NetConsole\obj\Debug\Log4NetConsole.csproj.CopyComplete
+C:\Users\戴尔\Source\Repos\Log4NetConsole\Log4NetConsole\obj\Debug\Log4NetConsole.exe
+C:\Users\戴尔\Source\Repos\Log4NetConsole\Log4NetConsole\obj\Debug\Log4NetConsole.pdb
